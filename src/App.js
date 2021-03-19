@@ -1,8 +1,8 @@
 import React from 'react';
 
 function App() {
-  const value = 'World';
-  return <div>Hello {value}</div>;
+  const value = 'for Azure demo';
+  return <div>Cowboy coding {value}</div>;
 }
 
 export default App;
